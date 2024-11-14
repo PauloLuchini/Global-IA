@@ -89,6 +89,9 @@ O projeto está configurado para publicar dados nos seguintes tópicos MQTT:
 - Crie flows para assinar os tópicos MQTT e visualizar os dados.
 - Use nodes de Dashboard no Node-RED para criar gráficos e indicadores.
 
+### 3.Flow node-red:
+![image](https://github.com/user-attachments/assets/4e687d81-0dbe-47d2-b1eb-70ea2b1627be)
+
 
 ## Estrutura de Diretórios
 O repositório contém os seguintes arquivos:
